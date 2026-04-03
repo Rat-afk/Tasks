@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Chapter 3 - The End Is Only The Beginning
-=======
-Chapter 3 - The End? (edited by colleague)
->>>>>>> f2a55d5b2db103c6a6fe5bda4ccd1300e8d8c766
+
